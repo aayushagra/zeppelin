@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "GCDC Cloudnext Extended 2019"
 email: "gcdcindore@gmail.com"
 description: "Cloudnext Extended 2019"
-baseurl: "/zeppelin"
+#baseurl: "/zeppelin"
 url: "http://gdg-x.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
