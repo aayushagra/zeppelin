@@ -1,60 +1,157 @@
 - 
+  id: -1
+  name: "Tushar"
+  surname: "Pal"
+  title: "Organizer"
+  thumbnailUrl: TusharPal.jpg
+  team: true
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/tpal94"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/tushar-p-325b5869/detail/photo/"}
+- 
+  id: 3
+  name: "Devesh"
+  surname: "Lashkari"
+  title: "Venue, Event Day things"
+  thumbnailUrl: DeveshLashkari.jpg
+  team: true
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/devesh.lashkari.1"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/devesh-lashkari/"}
+    - {name: "github", link: "https://github.com/deveshlashkari"}
+- 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Aayush"
+  surname: "Agrawal"
+  title: "Website, Speakers"
+  thumbnailUrl: AayushAgrawal.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
-- 
-  id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
-- 
-  id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
-- 
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "facebook", link: "https://www.facebook.com/aayush.agrawal.984"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/aayushagrawal101/"}
+    - {name: "github", link: "https://github.com/aayushagra"}
 - 
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
+  name: "Akshay"
+  surname: "Malviya"
+  title: "Management, Speaker, Venue"
+  thumbnailUrl: AkshayMalviya.jpg
+  team: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "facebook", link: "https://www.facebook.com/akshay.malviya1788"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/akshaymalviya"}
+    - {name: "github", link: "https://github.com/AkshayMalviya"}
+- 
+  id: 5
+  name: "Akash"
+  surname: "Gangrade"
+  title: "venue, speakers"
+  thumbnailUrl: AkashGangrade.jpg
+  team: true
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/akash.gangrade.1"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/akash-gangrade-8428b8106"}
+- 
+  id: 9
+  name: "Tanishka"
+  surname: "Porwal"
+  title: "Content writer"
+  thumbnailUrl: TanishkaPorwal.jpg
+  team: true
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/Firefly.tanishka"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/tanishka-porwal/"}
+    - {name: "github", link: "https://github.com/tanishka-porwal"}
+- 
+  id: 2
+  name: "Rajat"
+  surname: "Gupta"
+  title: "Website"
+  team: true
+  social: 
+    - {name: "facebook", link: "https://m.facebook.com/rajat.gupta.165"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rajat-gupta-a22b5769"}
+    - {name: "github", link: "https://github.com/rajat71194"}
+- 
+  id: 8
+  name: "Shachita"
+  surname: "Jain"
+  title: "Speakers, Content writer"
+  team: true
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100003632297023"}
+    - {name: "linkedin", link: "http://linkedin.com/in/shachita"}
+    - {name: "github", link: "https://github.com/Shachita"}
+- 
+  id: 1
+  name: "Gopal"
+  surname: "Oswal"
+  title: ""
+  thumbnailUrl: GopalOswal.jpg
+  team: true
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/gopal.oswal.3"}
+    - {name: "linkedin", link: "https://linkedin.com/in/gopal-oswal-402a50168/"}
+    - {name: "github", link: "https://github.com/oswalgopal"}
+- 
+  id: 4
+  name: "Bhanu"
+  surname: "Kushwah"
+  title: "Designing"
+  thumbnailUrl: BhanuKushwah.jpg
+  team: true
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100007943176574"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/bhanu-kushwah/"}
+    - {name: "github", link: "https://github.com/bhanukushwah"}
+- 
+  id: 6
+  name: "Mahima"
+  surname: "Rao"
+  title: "Speakers"
+  team: true
+- 
+  id: 11
+  name: "Tejasva"
+  surname: "Bansal"
+  title: "Designing"
+  team: true
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/itstejasvabansal"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/tejasva-bansal-b6215487/"}
+- 
+  id: 12
+  name: "Yashaswini "
+  surname: "Taose"
+  title: ""
+  team: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/Yashaswini Taose"}
+- 
+  id: 13
+  name: "Rashi"
+  surname: "Nagwanshi"
+  title: ""
+  team: true
+  social: 
+    - {name: "linkedin", link: "http://www.linkedin/in/rashi-nagwanshi"}
+- 
+  id: 14
+  name: "Udit"
+  surname: "Sen"
+  title: "Ticketing and Management"
+  team: true
+  social: 
+    - {name: "facebook", link: "Fb.com/udit.sen1"}
+    - {name: "linkedin", link: "Linkedin.com/in/aedit"}
+    - {name: "github", link: "Github.com/aedit"}
+- 
+  id: 15
+  name: "Ankit"
+  surname: "Bajaj"
+  title: ""
+  thumbnailUrl: AnkitBajaj.jpg
+  team: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ankitbajaj97"}
+    - {name: "github", link: "https://github.com/ankitbajaj97"}

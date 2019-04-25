@@ -36,8 +36,8 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+#c4pUrl: "http://bit.ly/dfua-c4p"
+#c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
 # Navigation
@@ -45,7 +45,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
 # - {permalink: "/blog/", text: "Blog"}
 # - {permalink: "/schedule/", text: "Schedule"}
-# - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
 # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
@@ -139,13 +139,15 @@ ticketsOffers:
   price: "0"
   priceCurrency: "INR"
   ticketsNumber: "150"
-#  ribbon: "-5%"
+  #ribbon: " SOLD OUT"
   buyButtonLink: "https://www.eventbrite.com/e/cloud-next-extended-19-tickets-60827713328"
   buyButtonText: "Book Now"
 #  ticketContentList: ["First to be released", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2019-05-22T10:00"
+  validFrom: "2019-04-25T10:00"
   validThrough: "2014-09-30T23:59"
-  disabled: true
+  soldOut: true
+  soldOutText: "Sold Out"
+  #disabled: true
  -
   name: "Professional Developers"
   price: "0"
@@ -153,25 +155,25 @@ ticketsOffers:
   ticketsNumber: "100"
 #  ribbon: "-20%"
   featured: true
-  buyButtonLink: "#"
+  buyButtonLink: "https://www.eventbrite.com/e/cloud-next-extended-19-tickets-60827713328"
   buyButtonText: "Book Now"
+  additionalInfo: "Requires a valid company E-Mail ID or your ticket will be cancelled"
 #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2019-05-01T00:00"
-  validThrough: "2014-10-23T23:59"
+  validFrom: "2019-04-27T08:00"
+  validThrough: "2014-05-04T23:59"
   disabled: true
  -
-  name: "Student"
+  name: "Lazy bird"
   price: "0"
   priceCurrency: "INR"
   ticketsNumber: "50"
-  buyButtonLink: "#"
+  buyButtonLink: "https://www.eventbrite.com/e/cloud-next-extended-19-tickets-60827713328"
   buyButtonText: "Book Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled"
+  #additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled"
 #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2019-05-01T10:00"
+  validFrom: "2019-05-04T10:00"
   validThrough: "2014-10-23T23:59"
   disabled: true
-#  soldOut: true
 #  soldOutText: "Sold Out"
 
 # Footer
@@ -201,7 +203,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs: "Google Cloud Developer Community, Indore is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GCDC program, visit https://cloud.google.com/community/meetups/"
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
