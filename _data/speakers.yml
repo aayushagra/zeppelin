@@ -13,8 +13,8 @@
   id: 4
   name: "Dharmesh"
   surname: "Vaya"
-  company: "Consultant"
-  title: "Google Developer Expert"
+  company: "Google Developer Expert"
+  title: "Independent Consultant"
   bio: "TBD"
   thumbnailUrl: DharamVaya.jpg
   rockstar: true
@@ -24,8 +24,8 @@
   id: 5
   name: "Akash"
   surname: "Agrawal"
-  company: "Consultant"
-  title: "Google Devleoper Expert"
+  company: "Google Developer Expert"
+  title: "Independent Consultant"
   bio: "TBD"
   thumbnailUrl: AkashAgrawal.jpg
   rockstar: true
