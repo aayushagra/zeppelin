@@ -67,7 +67,7 @@
   name: "Rajat"
   surname: "Gupta"
   title: "Website"
-  thumbnailUrl: rajatGupta.jpg
+  thumbnailUrl: rajatGupta.png
   team: true
   social: 
     - {name: "facebook", link: "https://m.facebook.com/rajat.gupta.165"}
