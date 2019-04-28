@@ -67,6 +67,7 @@
   name: "Rajat"
   surname: "Gupta"
   title: "Website"
+  thumbnailUrl: rajatGupta.jpg
   team: true
   social: 
     - {name: "facebook", link: "https://m.facebook.com/rajat.gupta.165"}
@@ -76,7 +77,8 @@
   id: 8
   name: "Shachita"
   surname: "Jain"
-  title: "Speakers, Content writer"
+  title: "Anchor, Content writer"
+  thumbnailUrl: sachitaJain.jpg 
   team: true
   social: 
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100003632297023"}
@@ -132,6 +134,7 @@
   name: "Rashi"
   surname: "Nagwanshi"
   title: ""
+  thumbnailUrl: rashiJain.jpg
   team: true
   social: 
     - {name: "linkedin", link: "http://www.linkedin/in/rashi-nagwanshi"}
@@ -140,6 +143,7 @@
   name: "Udit"
   surname: "Sen"
   title: "Ticketing and Management"
+  thumbnailUrl: uditSen.jpg
   team: true
   social: 
     - {name: "facebook", link: "Fb.com/udit.sen1"}
