@@ -89,7 +89,7 @@
   name: "Gopal"
   surname: "Oswal"
   title: ""
-  thumbnailUrl: GopalOswal.jpg
+  thumbnailUrl: GopalOswal1.jpg
   team: true
   social: 
     - {name: "facebook", link: "https://www.facebook.com/gopal.oswal.3"}
@@ -106,16 +106,6 @@
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100007943176574"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/bhanu-kushwah/"}
     - {name: "github", link: "https://github.com/bhanukushwah"}
-- 
-
-  id: 11
-  name: "Tejasva"
-  surname: "Bansal"
-  title: "Designing"
-  team: true
-  social: 
-    - {name: "facebook", link: "https://www.facebook.com/itstejasvabansal"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/tejasva-bansal-b6215487/"}
 - 
   id: 14
   name: "Udit"
