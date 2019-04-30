@@ -149,7 +149,7 @@ ticketsOffers:
   soldOutText: "Sold Out"
   #disabled: true
  -
-  name: "Regular Bird"
+  name: "Professional Developers"
   price: "0"
   priceCurrency: "INR"
   ticketsNumber: "100"
@@ -157,7 +157,7 @@ ticketsOffers:
   featured: true
   buyButtonLink: "https://www.eventbrite.com/e/cloud-next-extended-19-tickets-60827713328"
   buyButtonText: "Book Now"
-  additionalInfo: "This ticket is open to all students, professionals and everybody else!"
+  additionalInfo: "Requires a valid company E-Mail ID or your ticket will be cancelled"
 #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2019-04-27T08:00"
   validThrough: "2014-05-04T23:59"
