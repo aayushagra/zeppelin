@@ -89,7 +89,7 @@
   name: "Gopal"
   surname: "Oswal"
   title: ""
-  thumbnailUrl: GopalOswal.jpg
+  thumbnailUrl: pp.jpg
   team: true
   social: 
     - {name: "facebook", link: "https://www.facebook.com/gopal.oswal.3"}
@@ -106,38 +106,6 @@
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100007943176574"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/bhanu-kushwah/"}
     - {name: "github", link: "https://github.com/bhanukushwah"}
-- 
-  id: 6
-  name: "Mahima"
-  surname: "Rao"
-  title: "Speakers"
-  team: true
-- 
-  id: 11
-  name: "Tejasva"
-  surname: "Bansal"
-  title: "Designing"
-  team: true
-  social: 
-    - {name: "facebook", link: "https://www.facebook.com/itstejasvabansal"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/tejasva-bansal-b6215487/"}
-- 
-  id: 12
-  name: "Yashaswini "
-  surname: "Taose"
-  title: ""
-  team: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/Yashaswini Taose"}
-- 
-  id: 13
-  name: "Rashi"
-  surname: "Nagwanshi"
-  title: ""
-  thumbnailUrl: rashiN.jpg
-  team: true
-  social: 
-    - {name: "linkedin", link: "http://www.linkedin/in/rashi-nagwanshi"}
 - 
   id: 14
   name: "Udit"
